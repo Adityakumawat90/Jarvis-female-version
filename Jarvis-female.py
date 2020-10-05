@@ -1,4 +1,3 @@
-from tkinter import *
 import pyttsx3  # pip install pyttex3
 import datetime
 import speech_recognition as sr  # pip install sp.r
@@ -8,7 +7,6 @@ import webbrowser as wb
 import psutil# pip install
 import pyjokes  # pip install
 import os
-os.system('clear')
 import pyautogui  # pip install
 import random
 import wolframalpha  # pip install
@@ -19,15 +17,6 @@ import time
 import ctypes
 
 
-
-
-
-
-root = Tk()
-root.title('jarvis!')
-root.geometry("400x600")
-
-root.mainloop()
 engine = pyttsx3.init()
 voices = engine.getProperty('voices')
 engine.setProperty('voice', voices[1].id)
