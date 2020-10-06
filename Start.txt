@@ -1,0 +1,17 @@
+Hello 
+This program is female version of jarvis(Scarlett) .
+use the following instructions : 
+1. Download  Python in our PC.
+2. Now download Pycharm or Vs Code (you like anyone)
+3. when import using pip some file
+                  .import pyttsx3
+                  .import speech_recognition
+                  .wikipedia
+                  .psutil
+                  .pyjokes
+                  .pyautogui 
+                  .wolframalpha
+
+now you Enjoy with Scarlett (Jarvis Female version)
+                  
+
