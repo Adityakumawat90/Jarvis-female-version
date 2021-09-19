@@ -12,6 +12,5 @@ use the following instructions :
                   .pyautogui 
                   .wolframalpha
 
-now you Enjoy with Scarlett (Jarvis Female version)
                   
 
